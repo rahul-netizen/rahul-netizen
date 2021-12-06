@@ -28,5 +28,5 @@ rahul-netizen/rahul-netizen is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-netizen&show_icons=true&theme=white)
+&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-netizen&show_icons=true&theme=white)
 
