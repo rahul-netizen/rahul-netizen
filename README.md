@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul-netizen
-- 👀 I’m interested in ..I am still figuring out.
+- 👀 I’m interested in ..still figuring out.
 - 🌱 I’m currently learning Data Science & Analytics.
 - 💞️ I’m looking to collaborate on Data Structures, Python Projects.
 - 📫 How to reach me rahulkumar260100@gmail.com
