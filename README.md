@@ -25,6 +25,29 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+Nginx
+Certbor
+Terraform
+AWS
+GoogleCloud
+Grafana
+Prometheus
+Loki
+Tempo
+Elastic
+Logstash
+Kibana
+Pinecone
+Chroma
+PgVector
+DuckDB
+LangChain
+Typer
+Boto
+SqlAlchemy 
+Alembic
+Uvicorn
+Gunicorn
 
 
 <!---
